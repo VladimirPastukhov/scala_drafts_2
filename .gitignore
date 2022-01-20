@@ -1,0 +1,10 @@
+target/
+.idea/
+.bsp
+project
+project/boot/
+project/plugins/project/
+logs/
+project/*-shim.sbt
+project/project/
+project/target/
